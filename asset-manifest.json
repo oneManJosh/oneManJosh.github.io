@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca496d5c.css",
+    "main.js": "/static/js/main.d6edc278.js",
+    "static/js/787.164a5caf.chunk.js": "/static/js/787.164a5caf.chunk.js",
+    "static/media/insularis_text.svg": "/static/media/insularis_text.bf41b7b3cc1cc9d69c58f34e75ab8e14.svg",
+    "static/media/insularis_logo.svg": "/static/media/insularis_logo.98cbfe0a110d955c80810ac012697d8b.svg",
+    "index.html": "/index.html",
+    "main.ca496d5c.css.map": "/static/css/main.ca496d5c.css.map",
+    "main.d6edc278.js.map": "/static/js/main.d6edc278.js.map",
+    "787.164a5caf.chunk.js.map": "/static/js/787.164a5caf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca496d5c.css",
+    "static/js/main.d6edc278.js"
+  ]
+}
